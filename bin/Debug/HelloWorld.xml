@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HelloWorld
+</name>
+</assembly>
+<members>
+<member name="T:HelloWorld.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Australia___Sydney_Opera_House">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Brazil___Christ_the_Redeemer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Canada__CN_Tower">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.China___Great_Wall_of_China">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Egypt___Sphinx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.England___Big_Ben">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Ethiopia___Tiglachin_Monument">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Explore___postcard_cropped_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Explore___postcard_cropped_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Explore___postcard_cropped_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.France___Eiffel_Tower">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Germany___Brandenburg_Gate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Ghana___independence_arch">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.India___Taj_Mahal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Israel___Western_Wall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Italy___Colosseum">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Japan___Hiroshima_Peace_Monument">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Laval_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Level_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Mexico___Independence_Angel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Peru___Machu_Pichu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Philippines___Rizal_Park">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Russia___Kremelin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Saudi_Arabia__Mecca">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.South_Africa___Cradle_of_Humankind">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.South_Korea___Dongdaemun_Gate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.Turkey___Blue_Mosque">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.USA___White_House">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:HelloWorld.My.Resources.Resources.WorldMap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
